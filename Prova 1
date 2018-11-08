@@ -1,0 +1,10 @@
+<head>
+  <title> La mia prima App su JavaScript</title>
+  </head>
+  <body>
+    <script>
+      document.write{"Hello My App"};
+    </script>
+    </body>
+</html>
+      
